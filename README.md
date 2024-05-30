@@ -14,7 +14,7 @@ A simple chatbot application built with React, Next.js, TypeScript, and Tailwind
 1. Clone the repository:
 
 ```sh
-git clone <your-github-repo-url>
+git clone https://github.com/arpit29joshi/chatbot_layout
 cd chatbot
 npm i
 npm run dev
